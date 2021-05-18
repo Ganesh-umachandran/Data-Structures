@@ -1,7 +1,7 @@
 // Programmer: Ganesh Umachandran date: 18-05-2021
 // File: Stack_Check.cpp
 // Purpose: This file contains the Displaying function of Stack.
-#include "Header.h"
+#include "node.h"
 void Stack_Check(Node *Top)
 {       
     Node *ptr;

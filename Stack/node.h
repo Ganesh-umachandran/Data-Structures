@@ -2,14 +2,12 @@
 // File: Header.h
 // Purpose: This file contains the prototypes for function definitions for Implementation of Stack.
 // Constants for the implementation of Stack
-#ifndef HEADER_H // Header.h in uppercase follows the convention
-#define HEADER_H
+#ifndef NODE_H // Header.h in uppercase follows the convention
+#define NODE_H
 
-#include<iostream>
+#include <iostream>
 #include<cstdlib>
-
 using namespace std;
-
  // Node Declaration
 struct Node
 {

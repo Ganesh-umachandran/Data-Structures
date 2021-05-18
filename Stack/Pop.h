@@ -1,7 +1,8 @@
 // Programmer: Ganesh Umachandran date: 18-05-2021
 // File: Pop.cpp
 // Purpose: This file contains the Pop function for Implementation of Stack.
-#include "Header.h"
+#include "node.h"
+
 Node *Pop(Node *Top)
 {
     Node *tmp;
