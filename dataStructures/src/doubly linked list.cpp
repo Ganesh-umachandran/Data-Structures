@@ -1,3 +1,6 @@
+// Programmer: Ganesh Umachandran date: 18-05-2021
+// File: doubly linked list.cpp
+// Purpose: This file contains the main function and other operations required for for Implementation of Doubly linked list using class.
 #include "header/header.h"
 
 class doubleLinkedList
